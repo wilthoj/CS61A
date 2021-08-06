@@ -1,0 +1,6 @@
+'insert_items-correct', (0, 70)
+'hailstone-correct', (512, 70)
+'naturals-correct', (1024, 70)
+'List Mutation-correct', (1536, 70)
+'scale-correct', (2048, 70)
+'nonlocal_quiz-correct', (2560, 70)
